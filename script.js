@@ -17,5 +17,6 @@ square(60)
 }
 
 squareWithinsquare();
+squareWithinsquare();
 
 stamp();
